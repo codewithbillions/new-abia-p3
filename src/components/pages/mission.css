@@ -1,0 +1,12 @@
+.point {
+    font-family: "EB Garamond", serif; 
+    margin: 12px;
+    font-style: italic;
+}
+
+
+@media (max-width: 900px) {
+    .mission {
+      display: grid
+    }
+  }
